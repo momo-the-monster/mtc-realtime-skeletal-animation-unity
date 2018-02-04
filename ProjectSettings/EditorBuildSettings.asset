@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Egghead/Scenes/Egghead-Rigged.unity
+    guid: be88fe3332601214eb41731b5c068641
+  - enabled: 1
+    path: Assets/_Project/Egghead/Scenes/Egghead-IK-Animation.unity
+    guid: a641914be57ce234881d1edfe5178622
