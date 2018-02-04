@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: egyptian
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Hip
+    localPosition: {x: -0.0070195906, y: -0.66092306, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.70320034, w: 0.7109918}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso
+    localPosition: {x: 0.7, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.0064866086, w: 0.99997896}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Neck
+    localPosition: {x: 0.92242646, y: -2.5465852e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.025291093, w: 0.99968016}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Neck/Head
+    localPosition: {x: 0.39999995, y: -0.00000013383287, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.031958587, w: 0.99948925}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Neck/Head/Hair
+    localPosition: {x: 1.0440247, y: -0.00000021642406, z: -0.00000003033039}
+    localRotation: {x: 0, y: 0, z: 0.12900034, w: 0.99164456}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Arm L
+    localPosition: {x: 0.90274113, y: 0.8059539, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.64894783, w: 0.7608329}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Arm L/Arm L 2
+    localPosition: {x: 1.0000185, y: 0.000000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.75596297, w: 0.65461445}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Arm L/Arm L 2/Hand L
+    localPosition: {x: 0.7269377, y: 0.000000018857065, z: 0.0023436546}
+    localRotation: {x: 0, y: 0, z: 0.00971075, w: 0.99995285}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Arm R
+    localPosition: {x: 0.9067355, y: -0.78201234, z: 0.15865421}
+    localRotation: {x: 0, y: 0, z: 0.79201853, w: -0.61049706}
+    localScale: {x: 1.0000007, y: 1.0000007, z: 1}
+  - path: Hip/Torso/Arm R/Arm R 2
+    localPosition: {x: 1.0000185, y: 0.000000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.55861276, w: 0.8294287}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hip/Torso/Arm R/Arm R 2/Hand R
+    localPosition: {x: 1.1772512, y: 0.00000023841858, z: 0.004006386}
+    localRotation: {x: 0, y: 0, z: 0.4538635, w: -0.8910713}
+    localScale: {x: 1, y: 1, z: 1}
